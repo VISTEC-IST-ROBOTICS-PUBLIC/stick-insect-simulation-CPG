@@ -103,8 +103,8 @@ Link: https://onlinelibrary.wiley.com/doi/10.1002/adts.202300228
 ____
 ### Developer
 Developed by:
-Thirawat Chuthong (Joe)
-thirawat.c_s21@vistec.ac.th
+Thirawat Chuthong (Joe) \\
+thirawat.c_s21@vistec.ac.th \\
 Ph.D. student at Bio-inspired Robotics and Neural Engineering Laboratory,
 School of Information Science and Technology,
 Vidyasirimedhi Institute of Science and Technology, 
