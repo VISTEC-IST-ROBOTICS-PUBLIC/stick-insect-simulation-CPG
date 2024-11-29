@@ -103,9 +103,9 @@ Link: https://onlinelibrary.wiley.com/doi/10.1002/adts.202300228
 ____
 ### Developer
 Developed by:
-Thirawat Chuthong (Joe) \\
-thirawat.c_s21@vistec.ac.th \\
-Ph.D. student at Bio-inspired Robotics and Neural Engineering Laboratory,
-School of Information Science and Technology,
-Vidyasirimedhi Institute of Science and Technology, 
+Thirawat Chuthong (Joe) <br>
+thirawat.c_s21@vistec.ac.th <br>
+Ph.D. student at Bio-inspired Robotics and Neural Engineering Laboratory, <br>
+School of Information Science and Technology,<br>
+Vidyasirimedhi Institute of Science and Technology, <br>
 Wangchan Valley 555 Moo 1, Payupnai, Wangchan, 21210 Rayong, Thailand
