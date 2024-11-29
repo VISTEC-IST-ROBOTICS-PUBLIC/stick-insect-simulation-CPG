@@ -23,10 +23,10 @@ ______
 
 ### 2) Install Python
 ##### Option 1: install from __Microsoft Store__
-    - search "python" >> install
+- search "python" >> install
 ##### Option 2: install from __Source__
-    - [download](https://www.python.org/downloads/) >> install
-    - add python path [see this](https://realpython.com/add-python-to-path/)
+- [download](https://www.python.org/downloads/) >> install
+- add python path [see this](https://realpython.com/add-python-to-path/)
 
 
 ### 3) Copy python interpreter path to simulation setting
@@ -86,9 +86,11 @@ Control each joint (18 joints) of the simulated robot to move forward
 
 _______ 
 ### Citation:
-Paper title: Self-Organized Stick Insect-Like Locomotion under Decentralized Adaptive Neural Control: From Biological Investigation to Robot Simulation
+Paper title: Self-Organized Stick Insect-Like Locomotion under Decentralized Adaptive Neural Control: From Biological Investigation to Robot Simulation <br>
 Link: https://onlinelibrary.wiley.com/doi/10.1002/adts.202300228
 
+Bibtex:
+~~~
 @article{Larsen,
     author = {Larsen, Alexander and Büscher, Thies and Chuthong, Thirawat and Pairam, Thipawan and Bethge, Hendrik and Gorb, Stanislav and Manoonpong, Poramate},
     year = {2023},
@@ -99,7 +101,7 @@ Link: https://onlinelibrary.wiley.com/doi/10.1002/adts.202300228
     journal = {Advanced Theory and Simulations},
     doi = {10.1002/adts.202300228 }
 }
-
+~~~
 ____
 ### Developer
 Developed by:
