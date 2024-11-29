@@ -1,6 +1,6 @@
 # Stick insect simulation - CPG
 
-![stick insect workshop1](https://hackmd.io/_uploads/Sk8LWZDXyl.jpg)
+![stick insect workshop1](https://github.com/VISTEC-IST-ROBOTICS-PUBLIC/stick-insect-simulation-CPG/blob/main/figure/self_organized_locomotion_poster.jpg)
 I have developed a simulation designed for educational purposes to enhance understanding of neural control in legged robots, building upon and improving a simulation from [the published paper](https://onlinelibrary.wiley.com/doi/10.1002/adts.202300228).
 This simulation is intended solely for academic and research use and is not for commercial sale.
 Any reproduction, distribution, or use of this simulation without prior permission or citation is strictly prohibited and may result in legal consequences.
@@ -62,7 +62,7 @@ If the robot does not move
 _____
 
 ## How to play
-![stick insect workshop](https://hackmd.io/_uploads/S1T-BxvQye.png)
+![stick insect workshop](https://github.com/VISTEC-IST-ROBOTICS-PUBLIC/stick-insect-simulation-CPG/blob/main/figure/How_to_play_stick_insect_workshop.png)
 
 ### Task:
 Control each joint (18 joints) of the simulated robot to move forward
